@@ -7,8 +7,8 @@
 #   Character.create(name: "Luke", movie: movies.first)
 
 
-comments = Comment.create([
-    {body: "Greate Article", commentable: articles.first},
-    {body: "Greate Photo", commentable: photos.first},
+# comments = Comment.create([
+#     {body: "Greate Article", commentable: articles.first},
+#     {body: "Greate Photo", commentable: photos.first},
 
-])
+# ])
